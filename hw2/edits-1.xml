@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EDITS>
+  <EDITS_VERSION>-66</EDITS_VERSION>
+  <RECORD>
+    <OPCODE>OP_START_LOG_SEGMENT</OPCODE>
+    <DATA>
+      <TXID>365</TXID>
+    </DATA>
+  </RECORD>
+</EDITS>

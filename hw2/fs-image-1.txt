@@ -1,0 +1,10 @@
+Path	Replication	ModificationTime	AccessTime	PreferredBlockSize	BlocksCount	FileSize	NSQUOTA	DSQUOTA	Permission	UserName	GroupName
+/	0	2023-11-29 20:42	1970-01-01 00:00	0	0	0	9223372036854775807	-1	drwxr-xr-x	hadoop	supergroup
+/tmp	0	2023-11-22 20:19	1970-01-01 00:00	0	0	0	-1	-1	drwxrwx---	hadoop	supergroup
+/tmp/hadoop-yarn	0	2023-11-22 20:03	1970-01-01 00:00	0	0	0	-1	-1	drwxrwx---	hadoop	supergroup
+/tmp/hadoop-yarn/staging	0	2023-11-22 20:03	1970-01-01 00:00	0	0	0	-1	-1	drwxrwx---	hadoop	supergroup
+/tmp/hadoop-yarn/staging/history	0	2023-11-22 20:03	1970-01-01 00:00	0	0	0	-1	-1	drwxrwx---	hadoop	supergroup
+/tmp/hadoop-yarn/staging/history/done	0	2023-11-22 20:03	1970-01-01 00:00	0	0	0	-1	-1	drwxrwx---	hadoop	supergroup
+/tmp/hadoop-yarn/staging/history/done_intermediate	0	2023-11-22 20:03	1970-01-01 00:00	0	0	0	-1	-1	drwxrwxrwt	hadoop	supergroup
+/tmp/generated_by_urandom	3	2023-11-22 20:19	2023-11-22 20:19	134217728	1	100000	0	0	-rw-r--r--	hadoop	supergroup
+/generated_by_urandom	3	2023-11-22 20:28	2023-11-22 20:28	134217728	1	100000	0	0	-rw-r--r--	hadoop	supergroup
