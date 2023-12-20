@@ -31,3 +31,5 @@
 }</td>
         </tr>
 </table>
+
+## Настройка MapReduce
